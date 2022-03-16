@@ -1,4 +1,4 @@
-## Hi, I'm Qaz, and these are my projects!
+## Hi, these are my projects!
 
 ### [SemVer-KMP](https://github.com/QazCetelic/SemVer-KMP)
 I needed a SemVer library for a Kotlin project but all of them were JVM only, 
